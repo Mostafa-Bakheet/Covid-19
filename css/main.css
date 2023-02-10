@@ -308,7 +308,7 @@ p {
     color: white!important;
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 920px) {
     .care {
         background-size: 100% 100%;
         background-color: #2766bb;
